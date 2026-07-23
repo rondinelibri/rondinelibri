@@ -2,7 +2,7 @@
 
 **`Futuro QA`**
 
-Me chamo Rondineli Brito, tenho 30 anos e sou natural de Goiânia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por tecnologia e games. Tenho como objetivo atuar na área de Testes, como QA, ou no desenvolvimento Back-end. Meu Linkedin para contato "[Rondineli Alves](https://www.linkedin.com/in/rondineli-alves-4a15a5229/)", onde atualizo meu andamento no mercado de trabalho com cursos e certificados..
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por tecnologia e games. Tenho como objetivo atuar na área de Testes, como QA, ou no desenvolvimento Back-end. Meu Linkedin para contato "[Rondineli Alves](https://www.linkedin.com/in/rondineli-alves-4a15a5229/)", onde atualizo meu andamento no mercado de trabalho com cursos e certificados..
 
 ---
 
